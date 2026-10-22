@@ -1,0 +1,5 @@
+# Trivy — falsos positivos justificados
+# Formato: AVD-AWS-XXXX  # Justificación
+#
+# (vacío por ahora — agregar IDs con justificación si el gate bloquea
+#  en findings esperados/aceptados para esta capa de red)
